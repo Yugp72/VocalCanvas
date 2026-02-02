@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background
+color black
+color primary
+color primary_dark
+color purple_200
+color purple_500
+color purple_700
+color surface
+color teal_200
+color teal_700
+color text_primary
+color text_secondary
+color white
+id appBarLayout
+id canvasView
+id fabRefresh
+id toolbar
+layout activity_main
+string app_name
+string canvas_title
+string error_loading
+string loading
+string no_data
+string tap_to_interact
+style Theme.VocalCanvas
